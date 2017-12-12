@@ -20,5 +20,29 @@ body{
 
 h2{
     font-size: 32px;
+    
+}
+
+#Ribbon{
+    background-image: url(Images/the-flatiron-building.png);
+    color: white;
+    font-size: 23px;
+    }
+
+#Ribbon, h3{
     font-weight: bold;
+}
+
+#Footer{
+    background-color: dimgray;
+    text-align: left;
+}
+
+#Footer nav a{
+    color: white;
+        }
+
+.Copyright{
+    font-size: 12px;
+    color: white;
 }
